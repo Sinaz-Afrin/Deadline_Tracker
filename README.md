@@ -99,7 +99,7 @@ Deploy the application using [Streamlit Community Cloud](https://share.streamlit
 1. Push your project to GitHub.
 2. Create a new app in Streamlit Community Cloud.
 3. Select your repository and `app.py`.
-4. Add your credentials under the app's Secrets settings.
+4. **Add your credentials under the app's Secrets settings.**
 5. Deploy and test your application.
 
 ## 🔒 Security
