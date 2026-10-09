@@ -11,7 +11,7 @@ from prompts import (
     SUMMARY_REQUEST_PROMPT,
 )
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.5-flash"
 
 st.set_page_config(
     page_title="Deadline Tracker",
